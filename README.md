@@ -11,19 +11,17 @@
 
 ## 01-被动扫描资源
 
-- https://paper.seebug.org/1473
+- [ ] https://paper.seebug.org/1473
 
 ## 02-被动扫描项目
 
 一、Golang
-
 - [ ] https://github.com/chaitin/xray
 - [ ] https://github.com/Magicskys/Kiddy
 - [ ] https://github.com/virink/xray-weblisten-ui
 - [ ] https://github.com/ssssdl/GoHttpProxyScan
 
 二、Python
-
 - [ ] https://github.com/knownsec/LSpider
 - [ ] https://github.com/guimaizi/testing_wave
 - [ ] https://github.com/amcai/myscan
@@ -42,19 +40,16 @@
 - [ ] https://github.com/cqkenuo/SecXss
 
 三、Java
-
 - [ ] https://github.com/c0ny1/passive-scan-client
 - [ ] https://github.com/songxiaomo1997/ScanStation
 - [ ] https://github.com/EmYiQing/Burpsuite-JSScan
 
 四、JS
-
 - https://github.com/yu2lulu/passiveproxy
 
 ## 03-网站爬虫项目
 
 一、Golang
-
 - [ ] https://github.com/Qianlitp/crawlergo
 - [ ] https://github.com/chaitin/rad
 
@@ -65,10 +60,17 @@
 此部分包括流量代码转发篡改的相关项目底层库等。
 
 一、Golang
+
+- https://github.com/search?l=Go&q=mitmproxy
+
 - [ ] https://github.com/lqqyt2423/go-mitmproxy
 - [ ] https://github.com/jmizell/GoMITMProxy
 - [ ] https://github.com/yarochewsky/mitmproxy-go
 - [ ] https://github.com/elazarl/goproxy
+- [ ] https://github.com/projectdiscovery/proxify
+- [ ] https://github.com/ouqiang/mars
+- [ ] https://github.com/9seconds/httransform
+- [ ] https://github.com/moriyoshi/devproxy
 
 二、Python
 
@@ -77,3 +79,5 @@
 ## 05-被动扫描参考
 
 - https://github.com/PassivesScan
+
+[![Stargazers over time](https://starchart.cc//0e0w/PassivesScan.svg)](https://starchart.cc/0e0w/HackJava)
