@@ -1,7 +1,10 @@
-# PassivesScan被动扫描之巅
-漏洞扫描器一般分俩类：主动扫描和被动扫描。主动扫描一般是直接简单粗暴发起请求，被动扫描一般是根据代理的流量中特定参数进行简单粗暴的发起请求。有些漏洞通过主动扫描很难发现，必须通过被动扫描实现。被动扫描结合爬虫技术往往是漏洞扫描的最优解，这正是本项目准备解决的问题。作者：[0e0w](https://github.com/0e0w)
+# PassiveScan-被动扫描之巅
 
-本项目创建于2021年12月28日，最近的一次更新时间为2022年5月20日。
+![CodeQL](https://socialify.git.ci/ASTTeam/PassiveScan/image?description=1&font=Inter&forks=1&issues=1&name=1&owner=1&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Light)
+
+DAST漏洞扫描一般分俩类：主动扫描和被动扫描。主动扫描一般是对通过爬虫获取到的参数发起扫描，被动扫描一般是根据代理流量中的参数发起扫描。因为爬虫技术的技术劣势，部分漏洞通过主动扫描几乎不可能发现，必须通过被动扫描实现。被动扫描结合爬虫技术往往是DAST的最优解。这正是本项目准备解决的问题。作者：[0e0w](https://github.com/0e0w)
+
+本项目创建于2021年12月28日，最近的一次更新时间为2022年10月23日。
 
 - [01-被动扫描资源]()
 - [02-被动扫描项目]()
@@ -119,7 +122,7 @@
 
 ## 05-被动扫描参考
 
-- https://github.com/PassivesScan
+- https://github.com/ASTTeam/PassivesScan
 
 [![Stargazers over time](https://starchart.cc//0e0w/PassivesScan.svg)](https://starchart.cc/0e0w/PassivesScan)
 
